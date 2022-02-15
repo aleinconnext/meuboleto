@@ -1,6 +1,6 @@
 # [Meu Boleto - Portal de Boletos]
 
-![version](https://img.shields.io/badge/version-1.2.1-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/argon-dashboard-react.svg?maxAge=2592000)](https://github.com/creativetimofficial/argon-dashboard-react/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/argon-dashboard-react.svg?maxAge=2592000)](https://github.com/creativetimofficial/argon-dashboard-react/issues?q=is%3Aissue+is%3Aclosed)
+![version](https://img.shields.io/badge/version-1.2.1-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) 
 
 Baseado no template [Argon Dashboard](https://github.com/creativetimofficial/argon-dashboard-react)  [Bootstrap 4](https://getbootstrap.com/?ref=creativetim), [React](https://reactjs.org/?ref=creativetim) e [Reactstrap](https://reactstrap.github.io/?ref=creativetim), e desenvolvido com [create-react-app](https://facebook.github.io/create-react-app/?ref=creativetim). É de código aberto, gratuito e possui muitos componentes que podem ajudá-lo a criar sites incríveis.
 
