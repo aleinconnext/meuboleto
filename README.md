@@ -10,7 +10,6 @@ O Argon Dashboard React é construído com mais de 100 componentes individuais, 
 
 ## Quick start
 
-- `npm i argon-dashboard-react`
 - [Download do Github](https://github.com/aleinconnext/meuboleto/archive/refs/heads/master.zip).
 - Clone o repositório: `git clone https://github.com/aleinconnext/meuboleto.git`.
 
